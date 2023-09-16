@@ -5,3 +5,13 @@
 /**        export-ignore
 /addons    !export-ignore
 /addons/** !export-ignore
+/addons/kaykit_character_pack_adventures/** export-ignore
+/addons/kaykit_character_pack_adventures/LICENSE.txt !export-ignore
+/addons/kaykit_character_pack_adventures/Assets !export-ignore
+/addons/kaykit_character_pack_adventures/Assets/** !export-ignore
+/addons/kaykit_character_pack_adventures/Assets/fbx export-ignore
+/addons/kaykit_character_pack_adventures/Characters !export-ignore
+/addons/kaykit_character_pack_adventures/Characters/** !export-ignore
+/addons/kaykit_character_pack_adventures/Characters/fbx export-ignore
+/addons/kaykit_character_pack_adventures/Textures !export-ignore
+/addons/kaykit_character_pack_adventures/Textures/** !export-ignore
